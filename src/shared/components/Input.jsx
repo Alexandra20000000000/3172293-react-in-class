@@ -48,7 +48,8 @@ export default function Input({
                 }}
             />
             {/* Input visual */}
-            <input 
+            <input
+                id={htmlFor} 
                 type={type}
                 className="
                     relative
