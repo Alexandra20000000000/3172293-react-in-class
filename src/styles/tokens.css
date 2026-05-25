@@ -1,6 +1,4 @@
 :root {
-
-        /* Primary Color */
     --color-primary-950: #F0EA00;
     --color-primary-900: #FFFF00;
     --color-primary-800: #FFFF19;
@@ -13,7 +11,7 @@
     --color-primary-100: #FFFFCC;
     --color-primary-50: #FFFFE6;
 
-        /* Secundary Color */
+    
     --color-secondary-950: #B34700;
     --color-secondary-900: #E65100;
     --color-secondary-800: #EF6C00;
@@ -26,7 +24,7 @@
     --color-secondary-100: #FFE0B2;
     --color-secondary-50: #FFF5E5;
 
-      /* Tertiary Color */
+
     --color-tertiary-950: #330000;
     --color-tertiary-900: #4D0000;
     --color-tertiary-800: #800000;
@@ -39,8 +37,6 @@
     --color-tertiary-100: #FFB8B8;
     --color-tertiary-50: #FFE5E5;
 
-
-    /* Basic Color */
     --color-white: #ffffff;
     --color-black: #000000;
     --color-gray-950: #181818;
@@ -55,4 +51,20 @@
     --color-gray-100: #E9E9E9;
     --color-gray-50: #F6F6F6;
 
+    --main-font: Helvetica, Arial, sans-serif;
+    --secondary-font: Calibri, Helvetica, Arial;
+    
+    --font-weight-bold: 700;
+
+    --fs-xxxxl: 5rem;
+    --fs-xxxl: 4rem;
+    --fs-xxl: 3rem;
+    --fs-xl: 2.5rem;
+    --fs-lg: 2rem;
+    --fs-md: 1.5rem;
+    --fs-sm: 1.25rem;
+    --fs-xs: 1rem;
+    --fs-xxs: 0.875rem;
+    --fs-xxxs: 0.75rem;
+    --fs-xxxxs: 0.5rem;
 }
